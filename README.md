@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```javascript
+const tony = {
+  code: [Javascript, PHP, HTML, CSS],
+  tools: [React, Vue, Node, Symfony, Laravel, Wordpress],
+  oficial: 'Network and computer systems administrator'
+}
+```
 <!--
 **tonyjimena/tonyjimena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
