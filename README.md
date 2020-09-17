@@ -3,7 +3,7 @@
 ```javascript
 const tony = {
   code: [Javascript, PHP, HTML, CSS],
-  tools: [React, Vue, Node, Symfony, Laravel, Wordpress],
+  frameworks: [React, Vue, Node, Symfony, Laravel, Wordpress],
   oficial: 'Network and computer systems administrator'
 }
 ```
