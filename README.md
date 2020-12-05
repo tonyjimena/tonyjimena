@@ -4,7 +4,7 @@
 const tony = {
   code: [Javascript, PHP, HTML, CSS],
   frameworks: [React, Vue, Node, Symfony, Laravel, Wordpress],
-  oficial: 'Network and computer systems administrator'
+  official: 'Network and computer systems administrator'
 }
 ```
 <!--
